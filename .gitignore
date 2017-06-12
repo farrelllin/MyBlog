@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# venv Flask
+# venv Flask,myblog
+app.db
 flask/
 # Byte-compiled / optimized / DLL files
 __pycache__/
