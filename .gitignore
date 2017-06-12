@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # venv Flask
 flask/
 # Byte-compiled / optimized / DLL files
@@ -99,3 +100,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+=======
+/flask/*
+>>>>>>> 148b1caec165b4cb98fbcb93bc39d811db649876
